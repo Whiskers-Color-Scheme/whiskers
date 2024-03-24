@@ -80,7 +80,7 @@
     }
   },
   {
-    "name": "Tangerine ",
+    "name": "Tangerine",
     "hex": "#FFB26C",
     "rgb": {
       "r": "",
@@ -96,7 +96,7 @@
     }
   },
   {
-    "name": "Neutral1 ",
+    "name": "NeutralOne",
     "hex": "#000000",
     "rgb": {
       "r": "",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "name": "Neutral2 ",
+    "name": "NeutralTwo",
     "hex": "#0E0600",
     "rgb": {
       "r": "",
@@ -128,7 +128,7 @@
     }
   },
   {
-    "name": "Neutral3 ",
+    "name": "NeutralThree",
     "hex": "#140800",
     "rgb": {
       "r": "",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "name": "Neutral4 ",
+    "name": "NeutralFor",
     "hex": "#1B0B00",
     "rgb": {
       "r": "",
@@ -160,7 +160,7 @@
     }
   },
   {
-    "name": "Neutral5 ",
+    "name": "NeutralFive",
     "hex": "#210D00",
     "rgb": {
       "r": "",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "name": "Neutral6 ",
+    "name": "NeutralSix",
     "hex": "#301300",
     "rgb": {
       "r": "",
@@ -192,7 +192,7 @@
     }
   },
   {
-    "name": "Neutral7 ",
+    "name": "NeutralSeven",
     "hex": "#401A00",
     "rgb": {
       "r": "",
@@ -208,7 +208,7 @@
     }
   },
   {
-    "name": "Neutral8 ",
+    "name": "NeutralEight",
     "hex": "#502000",
     "rgb": {
       "r": "",
@@ -256,7 +256,7 @@
     }
   },
   {
-    "name": "Disabled ",
+    "name": "Disabled",
     "hex": "#8A512B",
     "rgb": {
       "r": "",
