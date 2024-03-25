@@ -9,7 +9,7 @@ Logo
 <details>
 <summary>🐈‍⬛ Panther</summary>
 
-| Preview                                                      | Name         | Hex     | RGB              | HSL               |
+|                                                              | Name         | Hex     | RGB              | HSL               |
 | ------------------------------------------------------------ | ------------ | ------- | ---------------- | ----------------- |
 | <img src="assets/panther-banana.svg" width="20" height="20"> | Banana       | #FFE072 | rgb(255,224,114) | hsl(47,100%,73%)  |
 |                                                              | Blueberry    | #A5CEFF | rgb(165,206,255) | hsl(213,100%,82%) |
