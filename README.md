@@ -9,7 +9,7 @@ Logo
 ## 🎨 Palette
 
 <details>
-<summary>Panther</summary>
+<summary>🐈‍⬛ Panther</summary>
 
 | Preview | Name         | Hex     | RGB | HSL |
 | ------- | ------------ | ------- | --- | --- |
@@ -34,7 +34,7 @@ Logo
 </details>
 
 <details>
-<summary>Tiger</summary>
+<summary>🐯 Tiger</summary>
 
 | Preview | Name         | Hex     | RGB | HSL |
 | ------- | ------------ | ------- | --- | --- |
