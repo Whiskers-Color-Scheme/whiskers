@@ -2,11 +2,9 @@
 
 Logo
 
-## Whiskers Theme
+## 🎨 Whiskers Theme Palette
 
 </div>
-
-## 🎨 Palette
 
 <details>
 <summary>🐈‍⬛ Panther</summary>
@@ -57,15 +55,3 @@ Logo
 |         | Disabled     | #A17F68 | rgb(161,127,104) | hsl(24,23%,52%)  |
 
 </details>
-
-## 🌳 Inspiration
-
-This theme is heavily inspired by catppuccin and the following cats :P
-
-<div align="center">
-<div>
-<img src="assets/cookie.webp" width="200">
-<img src="assets/preta.webp" width="200">
-</div>
-<img src="assets/oreo.webp" width="400">
-</div>
