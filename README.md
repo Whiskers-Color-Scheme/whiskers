@@ -1,10 +1,12 @@
 <div align="center">
 
-Logo
+<img src="assets/placeholder.png" width="100">
 
-## 🎨 Whiskers Theme Palette
+## Whiskers
 
 </div>
+
+## 🎨 Palette
 
 <details>
 <summary>🐈‍⬛ Panther</summary>
@@ -55,3 +57,9 @@ Logo
 | <img src="assets/tiger-disabled.svg" width="20" height="20">      | Disabled     | #A17F68 | rgb(161,127,104) | hsl(24,23%,52%)  |
 
 </details>
+
+## 🖌️ Ports
+
+🌐 Browsers
+
+- [Firefox](https://github.com/Whiskers-Color-Scheme/firefox)
