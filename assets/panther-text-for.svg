@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="panther-text.svg"
+   sodipodi:docname="panther-text-for.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -39,7 +39,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#ffeee2;fill-opacity:1"
+       style="fill:#b5a8a0;fill-opacity:1"
        id="path1"
        cx="24"
        cy="24"
