@@ -73,5 +73,6 @@
 
 💻 Terminal
 
+- [Fish](https://github.com/Whiskers-Color-Scheme/fish)
 - [Konsole](https://github.com/Whiskers-Color-Scheme/konsole)
 - [Starship](https://github.com/Whiskers-Color-Scheme/starship)
