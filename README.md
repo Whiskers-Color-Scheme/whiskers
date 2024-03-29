@@ -73,3 +73,8 @@
 💬 Social
 
 - [Discord](https://github.com/Whiskers-Color-Scheme/discord)
+
+💻 Terminal
+
+- [Konsole](https://github.com/Whiskers-Color-Scheme/konsole)
+- [Starship](https://github.com/Whiskers-Color-Scheme/starship)
