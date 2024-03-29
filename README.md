@@ -63,15 +63,12 @@
 ## 🖌️ Ports
 
 🌐 Browsers
-
 - [Firefox](https://github.com/Whiskers-Color-Scheme/firefox)
 
 ⌨️ Launchers
-
 - [Whiskers Launcher](https://github.com/Whiskers-Color-Scheme/whiskers-launcher)
 
 💬 Social
-
 - [Discord](https://github.com/Whiskers-Color-Scheme/discord)
 
 💻 Terminal
