@@ -68,6 +68,9 @@
 ⌨️ Launchers
 - [Whiskers Launcher](https://github.com/Whiskers-Color-Scheme/whiskers-launcher)
 
+🎨 Palette Libraries
+- [Rust](https://github.com/Whiskers-Color-Scheme/whiskers-palette-rs)
+
 💬 Social
 - [Discord](https://github.com/Whiskers-Color-Scheme/discord)
 
