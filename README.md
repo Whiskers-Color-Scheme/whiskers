@@ -63,6 +63,7 @@
 ## 🖌️ Ports
 
 🌐 Browsers
+- [Chrome](https://github.com/Whiskers-Color-Scheme/chrome)
 - [Firefox](https://github.com/Whiskers-Color-Scheme/firefox)
 
 ⌨️ Launchers
