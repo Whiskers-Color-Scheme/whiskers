@@ -1,0 +1,63 @@
+[
+    {
+        "category": "Browsers",
+        "ports": [
+            {
+                "name": "Chrome",
+                "url": "https://github.com/Whiskers-Color-Scheme/chrome"
+            },
+            {
+                "name": "Firefox",
+                "url": "https://github.com/Whiskers-Color-Scheme/firefox"
+            }
+        ]
+    },
+    {
+        "category": "Launchers",
+        "ports":[
+            {
+                "name": "Whiskers Launcher",
+                "url": "https://github.com/Whiskers-Color-Scheme/whiskers-launcher"
+            }
+        ]
+    },
+    {
+        "category": "Palette Libraries",
+        "ports": [
+            {
+                "name": "Rust",
+                "url":"https://github.com/Whiskers-Color-Scheme/whiskers-palette-rs"
+            }
+        ]
+    },
+    {
+        "category": "Social",
+        "ports": [
+            {
+                "name": "Discord",
+                "url": "https://github.com/Whiskers-Color-Scheme/discord"
+            }
+        ]
+    },
+    {
+        "category": "Terminal",
+        "ports":[
+            {
+                "name": "Fish",
+                "url": "https://github.com/Whiskers-Color-Scheme/fish"
+            },
+            {
+                "name": "Konsole",
+                "url": "https://github.com/Whiskers-Color-Scheme/konsole"
+            },
+            {
+                "name": "Starship",
+                "url": "https://github.com/Whiskers-Color-Scheme/starship"
+            },
+            {
+                "name": "Windows Terminal",
+                "url": "https://github.com/Whiskers-Color-Scheme/windows-terminal"
+            }
+        ]
+    }
+]
