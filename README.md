@@ -6,6 +6,15 @@
 
 </div>
 
+## About
+
+Whiskers Theme was created because [I](https://github.com/lighttigerxiv) got tired that all brown/yellow themes looked bad in my eyes.
+This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppuccin) and by the following cats :P
+
+| Cookie                                     | Amália                                     |
+| ------------------------------------------ | ------------------------------------------ |
+| <img src="assets/cookie.webp" width="300"> | <img src="assets/amalia.webp" width="300"> |
+
 ## 🎨 Palette
 
 <details>
@@ -63,16 +72,20 @@
 ## 🖌️ Ports
 
 🌐 Browsers
+
 - [Chrome](https://github.com/Whiskers-Color-Scheme/chrome)
 - [Firefox](https://github.com/Whiskers-Color-Scheme/firefox)
 
 ⌨️ Launchers
+
 - [Whiskers Launcher](https://github.com/Whiskers-Color-Scheme/whiskers-launcher)
 
 🎨 Palette Libraries
+
 - [Rust](https://github.com/Whiskers-Color-Scheme/whiskers-palette-rs)
 
 💬 Social
+
 - [Discord](https://github.com/Whiskers-Color-Scheme/discord)
 
 💻 Terminal
