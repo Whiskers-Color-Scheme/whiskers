@@ -31,7 +31,7 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 | <img src="assets/panther-neutral.svg" width="20" height="20">       | Neutral      | #000000 | rgb(0, 0, 0)       | hsl(0, 0%, 0%)      |
 | <img src="assets/panther-neutral-two.svg" width="20" height="20">   | NeutralTwo   | #0E0600 | rgb(14, 6, 0)      | hsl(26, 100%, 3%)   |
 | <img src="assets/panther-neutral-three.svg" width="20" height="20"> | NeutralThree | #140800 | rgb(20, 8, 0)      | hsl(24, 100%, 4%)   |
-| <img src="assets/panther-neutral-for.svg" width="20" height="20">   | NeutralFor   | #1B0B00 | rgb(27 ,11, 0)     | hsl(24, 100%, 5%)   |
+| <img src="assets/panther-neutral-four.svg" width="20" height="20">   | NeutralFour   | #1B0B00 | rgb(27 ,11, 0)     | hsl(24, 100%, 5%)   |
 | <img src="assets/panther-neutral-five.svg" width="20" height="20">  | NeutralFive  | #210D00 | rgb(33, 13, 0)     | hsl(24, 100%, 6%)   |
 | <img src="assets/panther-neutral-six.svg" width="20" height="20">   | NeutralSix   | #301300 | rgb(48, 19, 0)     | hsl(24, 100%, 9%)   |
 | <img src="assets/panther-neutral-seven.svg" width="20" height="20"> | NeutralSeven | #401A00 | rgb(64, 26, 0)     | hsl(24, 100%, 13%)  |
@@ -39,7 +39,7 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 | <img src="assets/panther-text.svg" width="20" height="20">          | Text         | #FFEEE2 | rgb(255, 238, 226) | hsl(25, 100%, 94%)  |
 | <img src="assets/panther-text-two.svg" width="20" height="20">      | TextTwo      | #E5D2C5 | rgb(229, 210, 197) | hsl(24, 38%, 84%)   |
 | <img src="assets/panther-text-three.svg" width="20" height="20">    | TextThree    | #CFBBAD | rgb(207, 187, 173) | hsl(25, 26%, 75%)   |
-| <img src="assets/panther-text-for.svg" width="20" height="20">      | TextFor      | #B5A8A0 | rgb(181, 168, 160) | hsl(23, 12%, 67%)   |
+| <img src="assets/panther-text-four.svg" width="20" height="20">      | TextFour      | #B5A8A0 | rgb(181, 168, 160) | hsl(23, 12%, 67%)   |
 
 </details>
 
@@ -57,7 +57,7 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 | <img src="assets/tiger-neutral.svg" width="20" height="20">       | NeutralOne   | #FFFCF8 | rgb(255, 252, 248) | hsl(34, 100%, 99%) |
 | <img src="assets/tiger-neutral-two.svg" width="20" height="20">   | NeutralTwo   | #FFF9F0 | rgb(255, 249, 240) | hsl(36, 100%, 97%) |
 | <img src="assets/tiger-neutral-three.svg" width="20" height="20"> | NeutralThree | #FFF5E7 | rgb(255, 245, 231) | hsl(35, 100%, 95%) |
-| <img src="assets/tiger-neutral-for.svg" width="20" height="20">   | NeutralFor   | #FFF3E2 | rgb(255, 243, 226) | hsl(35, 100%, 94%) |
+| <img src="assets/tiger-neutral-four.svg" width="20" height="20">   | NeutralFour   | #FFF3E2 | rgb(255, 243, 226) | hsl(35, 100%, 94%) |
 | <img src="assets/tiger-neutral-five.svg" width="20" height="20">  | NeutralFive  | #FFF1DD | rgb(255, 241, 221) | hsl(35, 100%, 93%) |
 | <img src="assets/tiger-neutral-six.svg" width="20" height="20">   | NeutralSix   | #FFF0DA | rgb(255, 240, 218) | hsl(36, 100%, 93%) |
 | <img src="assets/tiger-neutral-seven.svg" width="20" height="20"> | NeutralSeven | #FFEFD7 | rgb(255, 239, 215) | hsl(36, 100%, 92%) |
@@ -65,7 +65,7 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 | <img src="assets/tiger-text.svg" width="20" height="20">          | Text         | #3E1900 | rgb(62, 25, 0)     | hsl(24, 100%, 12%) |
 | <img src="assets/tiger-text-two.svg" width="20" height="20">      | TextTwo      | #865C3A | rgb(134, 92, 58)   | hsl(27, 40%, 38%)  |
 | <img src="assets/tiger-text-three.svg" width="20" height="20">    | TextThree    | #A17A5A | rgb(161, 122, 90)  | hsl(27, 28%, 49%)  |
-| <img src="assets/tiger-text-for.svg" width="20" height="20">      | TextFor      | #AE917C | rgb(174, 145, 124) | hsl(25, 24%, 58%)  |
+| <img src="assets/tiger-text-four.svg" width="20" height="20">      | TextFour      | #AE917C | rgb(174, 145, 124) | hsl(25, 24%, 58%)  |
 
 </details>
 
