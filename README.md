@@ -76,12 +76,29 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 - [Chrome](https://github.com/Whiskers-Color-Scheme/chrome)
 - [Firefox](https://github.com/Whiskers-Color-Scheme/firefox)
 
+🌆 Desktop Environments
+
+- [KDE](https://github.com/Whiskers-Color-Scheme/kde)
+
+🏃‍♂️ Health
+
+- [Fitbit](https://github.com/Whiskers-Color-Scheme/fitbit)
+
+🐛 IDEs
+
+- [Visual Studio Code](https://github.com/Whiskers-Color-Scheme/vscode)
+
 ⌨️ Launchers
 
 - [Whiskers Launcher](https://github.com/Whiskers-Color-Scheme/whiskers-launcher)
 
+🎧 Music
+
+- [Spicetify](https://github.com/Whiskers-Color-Scheme/spicetify)
+
 🎨 Palette Libraries
 
+- [Kotlin](https://github.com/Whiskers-Color-Scheme/whiskers-palette-kt)
 - [Rust](https://github.com/Whiskers-Color-Scheme/whiskers-palette-rs)
 
 💬 Social
@@ -90,7 +107,12 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 
 💻 Terminal
 
+- [Alacritty](https://github.com/Whiskers-Color-Scheme/alacritty)
 - [Fish](https://github.com/Whiskers-Color-Scheme/fish)
 - [Konsole](https://github.com/Whiskers-Color-Scheme/konsole)
 - [Starship](https://github.com/Whiskers-Color-Scheme/starship)
 - [Windows Terminal](https://github.com/Whiskers-Color-Scheme/windows-terminal)
+
+🪟 Window Managers
+
+- [SDDM](https://github.com/Whiskers-Color-Scheme/sddm)
