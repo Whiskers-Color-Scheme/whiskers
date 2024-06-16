@@ -113,6 +113,6 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 - [Starship](https://github.com/Whiskers-Color-Scheme/starship)
 - [Windows Terminal](https://github.com/Whiskers-Color-Scheme/windows-terminal)
 
-🪟 Window Managers
+🪟 Display Managers
 
 - [SDDM](https://github.com/Whiskers-Color-Scheme/sddm)
