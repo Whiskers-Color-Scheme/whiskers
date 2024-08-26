@@ -1,63 +1,120 @@
 [
-    {
-        "category": "Browsers",
-        "ports": [
-            {
-                "name": "Chrome",
-                "url": "https://github.com/Whiskers-Color-Scheme/chrome"
-            },
-            {
-                "name": "Firefox",
-                "url": "https://github.com/Whiskers-Color-Scheme/firefox"
-            }
-        ]
-    },
-    {
-        "category": "Launchers",
-        "ports":[
-            {
-                "name": "Whiskers Launcher",
-                "url": "https://github.com/Whiskers-Color-Scheme/whiskers-launcher"
-            }
-        ]
-    },
-    {
-        "category": "Palette Libraries",
-        "ports": [
-            {
-                "name": "Rust",
-                "url":"https://github.com/Whiskers-Color-Scheme/whiskers-palette-rs"
-            }
-        ]
-    },
-    {
-        "category": "Social",
-        "ports": [
-            {
-                "name": "Discord",
-                "url": "https://github.com/Whiskers-Color-Scheme/discord"
-            }
-        ]
-    },
-    {
-        "category": "Terminal",
-        "ports":[
-            {
-                "name": "Fish",
-                "url": "https://github.com/Whiskers-Color-Scheme/fish"
-            },
-            {
-                "name": "Konsole",
-                "url": "https://github.com/Whiskers-Color-Scheme/konsole"
-            },
-            {
-                "name": "Starship",
-                "url": "https://github.com/Whiskers-Color-Scheme/starship"
-            },
-            {
-                "name": "Windows Terminal",
-                "url": "https://github.com/Whiskers-Color-Scheme/windows-terminal"
-            }
-        ]
-    }
+  {
+    "category": "🌐 Browsers",
+    "ports": [
+      {
+        "name": "Chrome",
+        "url": "https://github.com/Whiskers-Color-Scheme/chrome"
+      },
+      {
+        "name": "Firefox",
+        "url": "https://github.com/Whiskers-Color-Scheme/firefox"
+      }
+    ]
+  },
+  {
+    "category": "🌆 Desktop Environments",
+    "ports": [
+      {
+        "name": "KDE",
+        "url": "https://github.com/Whiskers-Color-Scheme/kde"
+      },
+      {
+        "name": "GTK",
+        "url": "https://github.com/Whiskers-Color-Scheme/gtk"
+      }
+    ]
+  },
+  {
+    "category": "🏃‍♂️ Health",
+    "ports": [
+      {
+        "name": "Fitbit",
+        "url": "https://github.com/Whiskers-Color-Scheme/fitbit"
+      }
+    ]
+  },
+  {
+    "category": "🐛 IDEs",
+    "ports": [
+      {
+        "name": "Visual Studio Code",
+        "url": "https://github.com/Whiskers-Color-Scheme/vscode"
+      }
+    ]
+  },
+  {
+    "category": "⌨️ Launchers",
+    "ports": [
+      {
+        "name": "Whiskers Launcher",
+        "url": "https://github.com/Whiskers-Color-Scheme/whiskers-launcher"
+      }
+    ]
+  },
+  {
+    "category": "🎧 Music",
+    "ports": [
+      {
+        "name": "Spicetify",
+        "url": "https://github.com/Whiskers-Color-Scheme/spicetify"
+      }
+    ]
+  },
+  {
+    "category": "🎨 Palette Libraries",
+    "ports": [
+      {
+        "name": "Kotlin",
+        "url": "https://github.com/Whiskers-Color-Scheme/whiskers-palette-kt"
+      },
+      {
+        "name": "Rust",
+        "url": "https://github.com/Whiskers-Color-Scheme/whiskers-palette-rs"
+      }
+    ]
+  },
+  {
+    "category": "💬 Social",
+    "ports": [
+      {
+        "name": "Discord",
+        "url": "https://github.com/Whiskers-Color-Scheme/discord"
+      }
+    ]
+  },
+  {
+    "category": "💻 Terminal",
+    "ports": [
+      {
+        "name": "Alacritty",
+        "url": "https://github.com/Whiskers-Color-Scheme/alacritty"
+      },
+      {
+        "name": "Fish",
+        "url": "https://github.com/Whiskers-Color-Scheme/fish"
+      },
+      {
+        "name": "Konsole",
+        "url": "https://github.com/Whiskers-Color-Scheme/konsole"
+      },
+      {
+        "name": "Starship",
+        "url": "https://github.com/Whiskers-Color-Scheme/starship"
+      },
+      {
+        "name": "Windows Terminal",
+        "url": "https://github.com/Whiskers-Color-Scheme/windows-terminal"
+      }
+    ]
+  },
+  {
+    "category": "🪟 Display Managers",
+    "ports": [
+      {
+        "name": "SDDM",
+        "url": "https://github.com/Whiskers-Color-Scheme/sddm"
+      }
+    ]
+  }
 ]

@@ -79,6 +79,7 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 🌆 Desktop Environments
 
 - [KDE](https://github.com/Whiskers-Color-Scheme/kde)
+- [GTK](https://github.com/Whiskers-Color-Scheme/gtk)
 
 🏃‍♂️ Health
 
