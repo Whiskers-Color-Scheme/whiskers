@@ -93,10 +93,6 @@ This theme is very inspired by [catppuccin](https://github.com/catppuccin/catppu
 
 - [Whiskers Launcher](https://github.com/Whiskers-Color-Scheme/whiskers-launcher)
 
-🎧 Music
-
-- [Spicetify](https://github.com/Whiskers-Color-Scheme/spicetify)
-
 🎨 Palette Libraries
 
 - [Kotlin](https://github.com/Whiskers-Color-Scheme/whiskers-palette-kt)
