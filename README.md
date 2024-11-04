@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Whiskers-Color-Scheme/assets/main/logos/logo-rounded.webp" width="200">
+<img src="https://raw.githubusercontent.com/Whiskers-Color-Scheme/assets/main/logos/readme-logo.png" width="200">
 
 ## Whiskers
 
